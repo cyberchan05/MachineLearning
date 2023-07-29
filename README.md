@@ -1,2 +1,2 @@
 # MachineLearning
-This directory is datascience and machine learning enthusiasts.
+This directory is for datascience and machine learning enthusiasts.
